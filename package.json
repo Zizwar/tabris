@@ -1,0 +1,9 @@
+{
+  "title": "Homoola App",
+  "description": "homoola",
+  "category": "Android App",
+  "main": "hello.js",
+  "dependencies": {
+    "tabris": "1.8.0"
+  }
+}

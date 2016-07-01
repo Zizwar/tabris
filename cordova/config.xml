@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.eclipsesource.tabris.con" version="1.1.0" android-versionCode="7" ios-CFBundleVersion="1.1.0" xmlns="http://www.w3.org/ns/widgets">
+    <name>TabrisCon</name>
+    <description>
+        An exemplary Tabris.js conference app.
+    </description>
+    <author email="tabris@eclipsesource.com" href="https://tabrisjs.com">
+        EclipseSource
+    </author>
+    <access origin="*" />
+    <plugin name="cordova-plugin-dialogs" />
+    <plugin name="cordova-plugin-inappbrowser" />
+    <plugin name="cordova-plugin-network-information" />
+	<plugin name="https://github.com/eclipsesource/tabris-calendar.git" />
+</widget>
